@@ -39,7 +39,7 @@
   
 ### :hammer_and_wrench: Languages and Tools :
   
-  <img src="https://blog.accredian.com/wp-content/uploads/2019/04/Python-logo.jpg" title="python alt="python" width="40" height="40""
+  <img src="[https://blog.accredian.com/wp-content/uploads/2019/04/Python-logo.jpg](https://www.svgrepo.com/show/376344/python.svg)" title="python alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"        height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
