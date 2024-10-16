@@ -23,11 +23,9 @@
 
 ---
 
-### :man_technologist: About Me : I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tel Aviv
+### :man_technologist: About Me : I am a Backend Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tel Aviv
 
-- :telescope: I'm studying web programming and application site development.
-
-- :seedling: Learning to write web content.
+- :telescope: I'm studying backend programming and application site development.
 
 - :briefcase: <a href="https://alexxconst.github.io/">My Portfolio</a>
 
@@ -41,7 +39,7 @@
   
 ### :hammer_and_wrench: Languages and Tools :
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python"  title="CSS3" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"        height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
