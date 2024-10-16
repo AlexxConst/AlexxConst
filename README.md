@@ -39,7 +39,7 @@
   
 ### :hammer_and_wrench: Languages and Tools :
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python"  title="CSS3" alt="python" width="40" height="40"/>&nbsp;
+[  <img src="https://github.com/devicons/devicon/blob/master/icons/python"  title="CSS3" alt="python" width="40" height="40"/>&nbsp;](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw2i9605iBMj0Ioz4kQ1T-um&ust=1729173969861000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjLz5SJk4kDFQAAAAAdAAAAABAE)
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"        height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
