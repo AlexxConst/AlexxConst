@@ -38,15 +38,15 @@
 <div  align="center">
 ### :hammer_and_wrench: Languages and Tools :
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" width="150" height="150"/>
-🛠 My stack:
+</div>
+
+---
+<div  align="center">
+  🛠 My stack:
 - Python
 - Flask / FastAPI (learning)
 - SQL (SQLite, PostgreSQL)
 - Git & GitHub
 - Linux / Bash
 - Docker (learning)
-</div>
-
----
-<div  align="center">
 </div>
