@@ -80,17 +80,6 @@ I'm a **Backend Python Developer** based in Tel Aviv, Israel 🌴
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alexxconst&theme=tokyonight&hide_border=true" width="500"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=alexxconst&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxconst&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
