@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="150"/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/alexxconst/)">
+    <a href="https://www.linkedin.com/in/alexxconst/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
     <a href="https://t.me/YOUR_TELEGRAM">
