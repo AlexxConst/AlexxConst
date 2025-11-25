@@ -1,12 +1,13 @@
 <div id="header" align="center">
-  <div>
+  <img src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
+    <div>
     # 👋 Hi, I'm Sasha
-### Python Backend Developer (in training)
+Python Backend Developer
 
-💡 I'm learning Python and backend development.
+💡 I'm a Python and backend development.
 🔥 I'm taking Angela Yu's "100 Days of Code" course and creating portfolio projects.
 
-### 🛠 My stack:
+ 🛠 My stack:
 - Python
 - Flask / FastAPI (learning)
 - SQL (SQLite, PostgreSQL)
@@ -22,11 +23,10 @@
 
 ➡️ More projects in my GitHub repository!
 
-### 📫 Contacts
-Email: *insert here*
-Telegram: `@сюда_усерна`
+### 📫 Contacts: + 972 53 879 1797
+Email: asuslin01@gmail.com
+Telegram: `@Alex_S8_8`
   </div>
-  <img src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
   <div id="badges">
   <a href="http://www.linkedin.com/in/Alexxconst">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
