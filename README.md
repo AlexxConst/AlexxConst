@@ -1,74 +1,70 @@
+<!-- HEADER -->
 <div id="header" align="center">
-  <img src="media.giphy.com" width="100" alt="Animated GIF of a server rack"/>
+  <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="120"/>
+
   <div id="badges">
-    <!-- Social Links -->
-    <a href="www.linkedin.com">
-      <img src="img.shields.io" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/YOUR_LINK">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="t.me">
-      <img src="img.shields.io" alt="Telegram Badge"/>
+    <a href="https://t.me/YOUR_TELEGRAM">
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="mailto:youremail@example.com">
-       <img src="img.shields.io" alt="Email Badge"/>
+      <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
-  <!-- Profile Views Counter -->
-  <img src="komarev.com" alt="Profile Views"/>
+
+  <img src="https://komarev.com/ghpvc/?username=alexxconst&style=flat-square&color=blue" alt="Profile Views"/>
+
   <h1>
     Hello World! I'm Alex!
-    <img src="media.giphy.com" width="30px" alt="Waving hand GIF"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
   </h1>
 </div>
 
 ---
 
+<!-- MAIN GIF -->
 <div align="center">
-  <!-- Backend GIF -->
-  <img src="media.giphy.com" width="600" height="300" alt="Backend Development GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
-### :man_technologist: About Me
+## 👨‍💻 About Me
 
-I am a **Backend Python Developer** <img src="media.giphy.com" width="30" alt="Laptop GIF"> based in Tel Aviv, Israel.
+I am a **Backend Python Developer** <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> based in Tel Aviv, Israel.
 
-- :telescope: I am currently focusing on building scalable server-side applications and system architecture design with FastAPI.
-
-- :briefcase: You can check out my portfolio and projects [on my website](alexxconst.github.io).
-
-- :zap: In my free time, I enjoy optimizing code, solving algorithmic challenges on CodeWars, and reading technical books.
-
-- :mailbox: The quickest way to reach me is via [LinkedIn](www.linkedin.com).
+- 🔭 Currently building scalable backend services using **FastAPI**, async stack, Docker & PostgreSQL  
+- 💼 Check out my portfolio: **[alexxconst.github.io](https://alexxconst.github.io)**  
+- ⚡ I enjoy optimizing code, solving challenges on CodeWars, and reading tech books  
+- 📫 Best way to reach me: **LinkedIn**  
 
 ---
 
-### :hammer_and_wrench: Tech Stack & Tools
-
-My primary toolkit for backend development:
+## 🛠️ Tech Stack
 
 <div align="center">
-  <!-- Tech Icons using Devicons -->
-  <img src="raw.githubusercontent.com" alt="Python" width="50" height="50"/>
-  <img src="raw.githubusercontent.com" alt="Flask" width="50" height="50"/>
-  <img src="cdn.jsdelivr.net" alt="FastAPI" width="50" height="50"/>
-  <img src="raw.githubusercontent.com" alt="PostgreSQL" width="50" height="50"/>
-  <img src="raw.githubusercontent.com" alt="SQLite" width="50" height="50"/>
-  <img src="raw.githubusercontent.com" alt="Docker" width="50" height="50"/>
-  <img src="raw.githubusercontent.com" alt="Git" width="50" height="50"/>
-  <img src="raw.githubusercontent.com" alt="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
 </div>
 
 ---
 
-### :chart_with_upwards_trend: GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="github-readme-stats.vercel.app" alt="GitHub Stats"/>
-  <br>
-  <!-- Top Languages Card -->
-  <img src="github-readme-stats.vercel.app" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexxconst&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxconst&layout=compact&theme=tokyonight" height="180"/>
 </div>
 
 ---
+
+## 🚀 Fun Fact  
+I believe that **clean architecture + clean code = happy developer** 😄
