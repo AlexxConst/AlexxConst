@@ -1,4 +1,31 @@
 <div id="header" align="center">
+  <div>
+    # 👋 Hi, I'm Sasha
+### Python Backend Developer (in training)
+
+💡 I'm learning Python and backend development.
+🔥 I'm taking Angela Yu's "100 Days of Code" course and creating portfolio projects.
+
+### 🛠 My stack:
+- Python
+- Flask / FastAPI (learning)
+- SQL (SQLite, PostgreSQL)
+- Git & GitHub
+- Linux / Bash
+- Docker (learning)
+
+### 📂 Main projects:
+- 🎮 **Higher or Lower Game** – Python mini-game
+- 🐍 **Snake Game** (in progress)
+- 🧠 **Quiz Game** – mini-logic game
+- 🔧 **Bots, scrapers, API** (to be added)
+
+➡️ More projects in my GitHub repository!
+
+### 📫 Contacts
+Email: *insert here*
+Telegram: `@сюда_усерна`
+  </div>
   <img src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
   <div id="badges">
   <a href="http://www.linkedin.com/in/Alexxconst">
