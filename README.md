@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/alexxconst/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://t.me/YOUR_TELEGRAM">
+    <a href="https://t.me/Alex_S8_8">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
     <a href="mailto:youremail@example.com">
