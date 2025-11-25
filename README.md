@@ -1,76 +1,74 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
+  <img src="media.giphy.com" width="100" alt="Animated GIF of a server rack"/>
   <div id="badges">
-    <a href="http://www.linkedin.com/in/Alexxconst">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <!-- Social Links -->
+    <a href="www.linkedin.com">
+      <img src="img.shields.io" alt="LinkedIn Badge"/>
     </a>
-    <!-- Обновите эти URL на свои собственные -->
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="t.me">
+      <img src="img.shields.io" alt="Telegram Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="mailto:youremail@example.com">
+       <img src="img.shields.io" alt="Email Badge"/>
     </a>
   </div>
-  <!-- Счетчик просмотров профиля -->
-  <img src="https://komarev.com/ghpvc/?username=alexxconst&style=flat-square&color=blue" alt="Profile Views"/>
+  <!-- Profile Views Counter -->
+  <img src="komarev.com" alt="Profile Views"/>
   <h1>
-    Привет! Я Алекс! 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hello World! I'm Alex!
+    <img src="media.giphy.com" width="30px" alt="Waving hand GIF"/>
   </h1>
 </div>
 
 ---
 
 <div align="center">
-  <!-- Бэкенд-гифка -->
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Backend Development GIF"/>
+  <!-- Backend GIF -->
+  <img src="media.giphy.com" width="600" height="300" alt="Backend Development GIF"/>
 </div>
 
 ---
 
-### :man_technologist: Обо мне
+### :man_technologist: About Me
 
-Я **Backend Python Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Тель-Авива.
+I am a **Backend Python Developer** <img src="media.giphy.com" width="30" alt="Laptop GIF"> based in Tel Aviv, Israel.
 
-- :telescope: Сейчас активно изучаю разработку серверных приложений и проектирование архитектуры систем.
+- :telescope: I am currently focusing on building scalable server-side applications and system architecture design with FastAPI.
 
-- :briefcase: Моё портфолио можно посмотреть [здесь](https://alexxconst.github.io/).
+- :briefcase: You can check out my portfolio and projects [on my website](alexxconst.github.io).
 
-- :zap: В свободное время решаю алгоритмические задачи на [CodeWars](www.codewars.com) и читаю профессиональную литературу.
+- :zap: In my free time, I enjoy optimizing code, solving algorithmic challenges on CodeWars, and reading technical books.
 
-- :mailbox: Связаться со мной можно через [LinkedIn](https://www.linkedin.com/in/alexxconst).
+- :mailbox: The quickest way to reach me is via [LinkedIn](www.linkedin.com).
 
 ---
 
-### :hammer_and_wrench: Стек технологий и инструменты
+### :hammer_and_wrench: Tech Stack & Tools
 
-Перечень основных технологий, которые я использую или изучаю:
+My primary toolkit for backend development:
 
 <div align="center">
-  <p>
-    <code>Python</code> •
-    <code>Flask</code> •
-    <code>FastAPI</code> •
-    <code>PostgreSQL</code> •
-    <code>SQLite</code> •
-    <code>Docker</code> •
-    <code>Git</code> •
-    <code>Linux</code>
-  </p>
+  <!-- Tech Icons using Devicons -->
+  <img src="raw.githubusercontent.com" alt="Python" width="50" height="50"/>
+  <img src="raw.githubusercontent.com" alt="Flask" width="50" height="50"/>
+  <img src="cdn.jsdelivr.net" alt="FastAPI" width="50" height="50"/>
+  <img src="raw.githubusercontent.com" alt="PostgreSQL" width="50" height="50"/>
+  <img src="raw.githubusercontent.com" alt="SQLite" width="50" height="50"/>
+  <img src="raw.githubusercontent.com" alt="Docker" width="50" height="50"/>
+  <img src="raw.githubusercontent.com" alt="Git" width="50" height="50"/>
+  <img src="raw.githubusercontent.com" alt="Linux" width="50" height="50"/>
+</div>
+
+---
+
+### :chart_with_upwards_trend: GitHub Statistics
+
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="github-readme-stats.vercel.app" alt="GitHub Stats"/>
   <br>
-  <!-- Иконки технологий -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" width="80" height="80" alt="Python"/>
-  <img src="raw.githubusercontent.com" width="80" height="80" alt="Flask"/>
-  <img src="raw.githubusercontent.com" width="80" height="80" alt="PostgreSQL"/>
-  <img src="raw.githubusercontent.com" width="80" height="80" alt="Docker"/>
-  <img src="raw.githubusercontent.com" width="80" height="80" alt="Git"/>
-  <img src="raw.githubusercontent.com" width="80" height="80" alt="Linux"/>
+  <!-- Top Languages Card -->
+  <img src="github-readme-stats.vercel.app" alt="Top Languages"/>
 </div>
 
 ---
-
-<div align="center">
-  <!-- Дополнительные секции, например, статистика GitHub, можно добавить здесь -->
-</div>
-
