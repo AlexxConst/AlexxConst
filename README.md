@@ -1,32 +1,5 @@
 <div id="header" align="center">
   <img src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
-    <div>
-    # 👋 Hi, I'm Sasha
-Python Backend Developer
-
-💡 I'm a Python and backend development.
-🔥 I'm taking Angela Yu's "100 Days of Code" course and creating portfolio projects.
-
- 🛠 My stack:
-- Python
-- Flask / FastAPI (learning)
-- SQL (SQLite, PostgreSQL)
-- Git & GitHub
-- Linux / Bash
-- Docker (learning)
-
-### 📂 Main projects:
-- 🎮 **Higher or Lower Game** – Python mini-game
-- 🐍 **Snake Game** (in progress)
-- 🧠 **Quiz Game** – mini-logic game
-- 🔧 **Bots, scrapers, API** (to be added)
-
-➡️ More projects in my GitHub repository!
-
-### 📫 Contacts: + 972 53 879 1797
-Email: asuslin01@gmail.com
-Telegram: `@Alex_S8_8`
-  </div>
   <div id="badges">
   <a href="http://www.linkedin.com/in/Alexxconst">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -63,7 +36,13 @@ Telegram: `@Alex_S8_8`
 ---
 
 <div  align="center">
-  
+   🛠 My stack:
+- Python
+- Flask / FastAPI (learning)
+- SQL (SQLite, PostgreSQL)
+- Git & GitHub
+- Linux / Bash
+- Docker (learning)
 ### :hammer_and_wrench: Languages and Tools :
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" width="150" height="150"/>
 </div>
